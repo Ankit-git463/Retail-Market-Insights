@@ -14,23 +14,23 @@ This section contains screenshots demonstrating key features and functionality o
 
 ### Index Page
 
-![Index](screenshots\index.png "Index")
+![Index](screenshots/index.png "Index")
 
 ### Prediction Section
 
-![Prediction Section](screenshots\Predictions.png "Prediction Section")
+![Prediction Section](screenshots/Predictions.png "Prediction Section")
 
 ### Feature Contribution Analysis
 
-![Feature Contribution Analysis](screenshots\Feature_contribution_analysis.png "Feature Contribution Analysis")
+![Feature Contribution Analysis](screenshots/Feature_contribution_analysis.png "Feature Contribution Analysis")
 
 ### Translate Section
 
-![Translate Section](screenshots\translation.png "Translate Section")
+![Translate Section](screenshots/translation.png "Translate Section")
 
 ### Visual Analysis
 
-![Visual Analysis](screenshots\Analysis_Visuals.png "Visual Analysis")
+![Visual Analysis](screenshots/Analysis_Visuals.png "Visual Analysis")
 
 
 
